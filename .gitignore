@@ -1,0 +1,10 @@
+# Virtual Environment & uv
+.venv/
+.uv/
+
+# Data & Saved Models
+data/
+models/
+
+# Jupyter Checkpoints
+.ipynb_checkpoints/
