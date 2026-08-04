@@ -8,3 +8,7 @@ models/
 
 # Jupyter Checkpoints
 .ipynb_checkpoints/
+
+# Python Bytecode
+__pycache__/
+*.pyc
